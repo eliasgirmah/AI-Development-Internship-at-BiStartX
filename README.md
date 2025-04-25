@@ -47,7 +47,7 @@ Each folder contains:
 
 If you're passionate about AI, ML, or DL — let's connect! 💡💬
 
-🔗 **LinkedIn:** [EliasGirma [(https://www.linkedin.com/in/elias-girma-155a09283/)]  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/elias-girma-155a09283/)] 
 ⭐ If you find this repo helpful, consider giving it a **star**!
 
 ---
